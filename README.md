@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on learning Python through small scripts and simple projects.<br>👯 I’m looking to collaborate on beginner-level Python projects and learning exercises.<br>🤝 I’m looking for help with understanding real-world Python use cases.<br>🌱 I’m currently learning Python fundamentals, data handling, and data visualization.
+🔭 I’m currently working on learning Python through small and simple projects.<br>👯 I’m looking to collaborate on beginner-level Python projects and learning exercises.<br>🤝 I’m looking for help with understanding real-world Python use cases.<br>🌱 I’m currently learning Python fundamentals, data handling, and data visualization.
 
 
 ## 🌐 Socials:
